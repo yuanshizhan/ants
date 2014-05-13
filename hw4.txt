@@ -1,0 +1,25 @@
+CS61C Fa13 HW4
+Name: 
+Login: cs61c-??
+
+Problem 1
+a) 0xFFF00B9E = 
+b) 0x00000000 = 
+c) 0xBFC00000 = 
+d) 0x42420000 = 
+e) 42 = 
+f) 1337 = 
+
+Problem 2
+a) 0x20020000 = addi $v0, $0, 0
+b) 0x00082100 = 
+c) 0x3C1d0007 = 
+d) 0x8F19FFFC = 
+e) 0x020B102A = 
+
+Problem 3
+a) jal quadruple =
+b) sll $v0, $a0, 2 =
+c) srl $t0, $v0, 2 =
+d) beq $v0, $t0, warning =
+e) jr $ra =
